@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu.iml" filepath="$PROJECT_DIR$/SlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawlayout/drawlayout.iml" filepath="$PROJECT_DIR$/drawlayout/drawlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqslidingmenudelete/qqslidingmenudelete.iml" filepath="$PROJECT_DIR$/qqslidingmenudelete/qqslidingmenudelete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickindex/quickindex.iml" filepath="$PROJECT_DIR$/quickindex/quickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipedelete/swipedelete.iml" filepath="$PROJECT_DIR$/swipedelete/swipedelete.iml" />
+    </modules>
+  </component>
+</project>
